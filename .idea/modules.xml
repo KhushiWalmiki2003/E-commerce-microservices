@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/E-commerce-microservices.iml" filepath="$PROJECT_DIR$/.idea/E-commerce-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecommerce-microservices/Kafka-infra/Kafka-infra.iml" filepath="$PROJECT_DIR$/ecommerce-microservices/Kafka-infra/Kafka-infra.iml" />
     </modules>
   </component>
 </project>
